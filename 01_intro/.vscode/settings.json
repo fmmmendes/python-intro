@@ -1,0 +1,4 @@
+{
+    "python.pipenvPath": "./venv-intro/Scripts/python",
+    "python.terminal.activateEnvironment": true
+}
