@@ -59,6 +59,7 @@ jupyter nbconvert --execute --to html notebook.ipynb
 
 ## References
 
+https://dev.to/idrisrampurawala/setting-up-python-workspace-in-visual-studio-code-vscode-149p   
 https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html  
 https://coincodex.com/crypto/bitcoin/historical-data/  
 https://towardsdatascience.com/python-environment-101-1d68bda3094d  
